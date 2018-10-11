@@ -1,0 +1,18 @@
+* {
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.content {
+  text-align: center;
+}
+
+.lead {
+  padding-top: 20px;
+  max-width: 100%;
+  height: auto;
+
+}
